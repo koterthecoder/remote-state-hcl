@@ -68,3 +68,8 @@ s3: Instance Profile, Access/Secret Keys, Credentials File, Session Token
 
 ### apply the deployment
 ```terraform apply "state.tfplan"```
+
+
+## Example
+
+Follow `/vpc/readme.md` for remote state example implementation
